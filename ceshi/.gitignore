@@ -1,0 +1,12 @@
+ipch/*
+.vs/*
+Bin/*
+Build/*
+*.suo
+*.db
+*.sdf
+DuiLib/Build/*
+DuiLib/Debug/*
+*.opendb
+lib/*
+Bin/Release/*.*

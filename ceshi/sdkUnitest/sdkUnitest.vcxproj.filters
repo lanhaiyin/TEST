@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TestConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogError.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_auth.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Environment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_config.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_chat.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_sysmsg.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_ext.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_cloud.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_file.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_contact.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_group.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_search.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_user.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_gainter.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_rtc.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UnusedService.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gmock-test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="memory.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="semer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="parson.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unitest_comm.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk_unitest.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestConfig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="allTests.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LogError.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_auth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_chat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_sysmsg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_ext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_cloud.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_group.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_contact.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_user.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_rtc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_gainter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gmock-test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sdk_unitest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="parson.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unitest_comm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

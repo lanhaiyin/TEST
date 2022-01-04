@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<serverA>bxy</serverA>
+    <accountA>vrv210881</accountA>
+    <LoginPasswordA>123456789ma</LoginPasswordA>
+	<userTypeA>7</userTypeA>
+	<myuserIdA>21256846270 </myuserIdA>
+	
+	<serverB>bxy</serverB>
+    <accountB>vrv211050</accountB>
+    <LoginPasswordB>yunhuan99</LoginPasswordB>
+	<userTypeB>7</userTypeB>
+	<myuserIdB>21256847772 </myuserIdB>
+	
+	<CertPath>./linkdood.crt</CertPath>
+    <regcode>62140486</regcode>
+    <ticket>44340ce1d3414a2cb564be4ff3af1530</ticket>
+    <FriendNum>10</FriendNum>
+    <TestFriendUserId>21256840407</TestFriendUserId>
+	<TestFriendUserId2>21256840326</TestFriendUserId2>
+	<TestUserTarget>21256840407</TestUserTarget>
+	<TestGroupTarget>21265130580</TestGroupTarget>
+	<TestMsgId>8207730</TestMsgId>
+    <TestFriendVerifType>3</TestFriendVerifType>
+    <TestGroupId>21265130580</TestGroupId>
+	
+	<TestLanguage>zh_CN</TestLanguage>
+	
+    <headImg>xmlconfig/headImg.jpg</headImg>
+    <backGroundImg>xmlconfig/uploadImg.jpg</backGroundImg>
+    <uploadImg>xmlconfig/uploadImg.jpg</uploadImg>
+    <encryFilePath>xmlconfig/encry.txt</encryFilePath>
+    <decryFilePath>xmlconfig/decry.txt</decryFilePath>
+    <uploadFilePath>xmlconfig/uploadFilePath.txt</uploadFilePath>
+	<uploadShareImagePath>xmlconfig/uploadShareImagePath.jpg</uploadShareImagePath>
+	
+	
+	<compresspath>xmlconfig/uploadFilePath.txt</compresspath>
+	<uncompresspath>xmlconfig/uploadFilePath.txt.zip</uncompresspath>
+	
+	
+	<MarkImagepath>xmlconfig/MarkImagepath.jpg</MarkImagepath>
+	<SendImgJpgPath>xmlconfig/uploadImg.jpg </SendImgJpgPath>
+	<SendImgPngPath> xmlconfig/sendImg.png </SendImgPngPath>
+	<SendImgGifPath> xmlconfig/sendImg.gif </SendImgGifPath>
+	<SendFolderPath>xmlconfig/filetest</SendFolderPath>
+	<SendhanziTxtName>xmlconfig/测试文件</SendhanziTxtName>
+	<Sendpassword>123456</Sendpassword>
+	<SendpositionName>郑州东站 </SendpositionName>
+	<Sendlatitude>34.759197</Sendlatitude>
+	<Sendlongitude>113.778584</Sendlongitude>
+	<SendcardId>21256840294</SendcardId>
+	<SendTxt100>长度为0-200[09:41:30.510.381 sdk_e standard 4952_12276 auth authLogic::checkRegTime]false netRegTime:1640163840008,localRegTime = 1640163840008</SendTxt100>
+	<SendTxt500>Function used for cleaning up the emailfunction replace_email(string)\
+	return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+    b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+	appInsights.context.addTelemetryInitializer(function(envelope) {if (envelope.name == = Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType) {\
+	envelope.data.baseData.data = replace_email(envelope.data.baseData.data);	});});</SendTxt500>
+	<SendTxt2000>Function used for cleaning up the emailfunction replace_email(string)\
+	return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+	appInsights.context.addTelemetryInitializer(function(envelope) {if (envelope.name == = Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType) {\
+	envelope.data.baseData.data = replace_email(envelope.data.baseData.data);	});}); this is a test message,test number:jdnoandoiiofjkdalfmadklfmad;fm;dafm;dfmdnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmos\
+pvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6\
+sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsd\
+f165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;\
+dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoando\
+iiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop</SendTxt2000>
+	<SendTxt6000>Function used for cleaning up the emailfunction replace_email(string)\
+	return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+	appInsights.context.addTelemetryInitializer(function(envelope) {if (envelope.name == = Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType) {\
+	envelope.data.baseData.data = replace_email(envelope.data.baseData.data);	});}); this is a test message,test number:jdnoandoiiofjkdalfmadklfmad;fm;dafm;dfmdnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmos\
+pvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6\
+sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsd\
+f165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;\
+dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoando\
+var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+	appInsights.context.addTelemetryInitializer(function(envelope) {if (envelope.name == = Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType) {\
+	envelope.data.baseData.data = replace_email(envelope.data.baseData.data);	});}); this is a test message,test number:jdnoandoiiofjkdalfmadklfmad;fm;dafm;dfmdnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmos\
+pvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6\
+sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsd\
+f165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;\
+dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoando\
+var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+return string.replace(regex, 'EMAIL_DROPPED');}var pageTitle = replace_email(document.title);var url = replace_email(document.URL);\
+	var referrer = replace_email(document.referrer);var appInsights = window.appInsights || function(a) { function b(a) { c[a] = function() { var b = arguments; c.queue.push(function()\
+	{ c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function() { var b = d.createElement(\"script\"); b.src = a.url || \"https://az416426.vo.msecnd.net/scripts/a/ai.0.js\", d.getElementsByTagName(\"script\"\)[0].parentNode.appendChild(b) });\
+	try { c.cookie = d.cookie } catch (a) {} c.queue = []; for (var f =; f.length;)b(\"track\" + f.pop()); if (b(\"setAuthenticatedUserContext\"), b(\"clearAuthenticatedUserContext\"), b(\"startTrackEvent\"), \
+   b(\"stopTrackEvent\"), b(), b(), b(), !a.disableExceptionTracking) { f =, b( + f); var g = e[f]; e[f] = function(a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 != = i && c[ + f](a, b, d, e, h), i } } return c }({ instrumentationKey: \"08cbbce2-1960-4f24-86d9-71a45706b094\" });\
+	window.appInsights = appInsights;// Add telemetry initializerappInsights.queue.push(function() {\
+	appInsights.context.addTelemetryInitializer(function(envelope) {if (envelope.name == = Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType) {\
+	envelope.data.baseData.data = replace_email(envelope.data.baseData.data);	});}); this is a test message,test number:jdnoandoiiofjkdalfmadklfmad;fm;dafm;dfmdnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmos\
+pvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6\
+sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsd\
+iiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsop1fs6d5f1s65d16s5df1dnoandoiiofjkdalfmadklfmad;fm;dafm;dfm;dfmd;fm;dsfdsfdsilkfjdisofsdf165sdf1d6s5f1d6sf1d6sf16sdf16sdf1d6sf1d6sf1sd6f1FJSKDFNfpodsfodspvjopsvmospvmoskvmsopllllmax</SendTxt6000>
+</document>

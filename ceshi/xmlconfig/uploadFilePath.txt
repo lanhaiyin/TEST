@@ -1,0 +1,19 @@
+提交git代码
+
+git add .
+git status
+git commit -m "修改内容"
+git pull origin 1-feathre-
+git push origin 1-feathre-
+
+
+
+
+
+///////////////////////////////////////
+
+git branch
+
+git fetch origin 1-feathre-       //从远端拉取分支
+
+git checkout 1-feathre           //切换分支

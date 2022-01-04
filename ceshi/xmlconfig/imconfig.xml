@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<serverA>im</serverA>
+    <accountA>11059698150</accountA>
+    <LoginPasswordA>a1234567</LoginPasswordA>
+	<userTypeA>1</userTypeA>
+	<myuserIdA>9151315548882287722</myuserIdA>
+	
+	<serverB>im</serverB>
+    <accountB>11041968995</accountB>
+    <LoginPasswordB>a1234567</LoginPasswordB>
+	<userTypeB>1</userTypeB>
+	<myuserIdB>9151315548882287723</myuserIdB>
+	
+    <CertPath>./linkdood.crt</CertPath>
+    <regcode>62140486</regcode>
+    <ticket>FBF12E5502B44251B086EF0565CF304A</ticket>
+    <FriendNum>10</FriendNum>
+    <TestFriendUserId>9151315548882287723</TestFriendUserId>
+	<TestFriendUserId2>9151315548882287724</TestFriendUserId2>
+	<TestUserTarget>9151315548882287723</TestUserTarget>
+	<TestGroupTarget>9151316092084344846</TestGroupTarget>
+	<TestMsgId>23074911</TestMsgId>
+    <TestFriendVerifType>3</TestFriendVerifType>
+    <TestGroupId>9151316092084344846</TestGroupId>
+	<TestLanguage>zh_CN</TestLanguage>
+	
+    <headImg>xmlconfig/headImg.jpg</headImg>
+    <backGroundImg>xmlconfig/uploadImg.jpg</backGroundImg>
+    <uploadImg>xmlconfig/uploadImg.jpg</uploadImg>
+    <encryFilePath>xmlconfig/encry.txt</encryFilePath>
+    <decryFilePath>xmlconfig/decry.txt</decryFilePath>
+    <uploadFilePath>xmlconfig/uploadFilePath.txt</uploadFilePath>
+	<uploadShareImagePath>xmlconfig/uploadShareImagePath.jpg</uploadShareImagePath>
+	
+	
+	<compresspath>xmlconfig/uploadFilePath.txt</compresspath>
+	<uncompresspath>xmlconfig/uploadFilePath.txt.zip</uncompresspath>
+	
+	
+	<MarkImagepath>xmlconfig/MarkImagepath.jpg</MarkImagepath>
+	
+
+</document>
